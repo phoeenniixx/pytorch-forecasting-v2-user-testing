@@ -100,7 +100,7 @@ Trainer(max_epochs=5).fit(model, dm)
 # high-level
 pkg = TFT_pkg_v2(datamodule_cfg=..., model_cfg=..., trainer_cfg=...)
 pkg.fit(dataset)
-preds = pkg.predict(dataset, return_info=["index", "x", "y"])
+preds = pkg.predict(dataset, return_info=[ "x", "y"])
 ```
 
 Use M directly for your own Trainer/callbacks. Use P to just run it.
