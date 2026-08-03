@@ -108,6 +108,7 @@ Use M directly for your own Trainer/callbacks. Use P to just run it.
 ## Some things to keep in mind while trying out things in v2
 - We still have no categorical support
   - The pipeline assume everything is numeric!
+- Lacks multi-target support
 - No support for `DistributionLoss`
 - Train-test splitting is not implemented extensively
   - Only splitting based on groups
