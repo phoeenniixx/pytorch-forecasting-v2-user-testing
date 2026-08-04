@@ -9,6 +9,7 @@ To run the notebooks in colab:
 | `00_introduction.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phoeenniixx/pytorch-forecasting-v2-user-testing/blob/main/notebooks/00_introduction.ipynb) |
 | `01_Basic_flow.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phoeenniixx/pytorch-forecasting-v2-user-testing/blob/main/notebooks/01_Basic_flow.ipynb) |
 | `02_unreleased.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phoeenniixx/pytorch-forecasting-v2-user-testing/blob/main/notebooks/02_unreleased.ipynb) |
+| `02a_extras.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phoeenniixx/pytorch-forecasting-v2-user-testing/blob/main/notebooks/02a_extras.ipynb.ipynb) |
 | `03_EXCERCISE_basic_flow.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phoeenniixx/pytorch-forecasting-v2-user-testing/blob/main/notebooks/03_EXCERCISE_basic_flow.ipynb) |
 | `04_EXERCISE_unreleased.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phoeenniixx/pytorch-forecasting-v2-user-testing/blob/main/notebooks/04_EXERCISE_unreleased.ipynb) |
 
